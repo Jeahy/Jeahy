@@ -6,7 +6,7 @@ welcome to my profile 😀
 
 🌱 I’m currently learning AWS for Data Engineers
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jessica-weber-70ab9a83/)
+📫 You can reach me via [email](mailto:jeticodes@gmail.com)
 
 
 
