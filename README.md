@@ -6,7 +6,7 @@ welcome to my profile
 
 🌱 I’m currently learning AWS for Data Engineers
 
-📫 How to reach me: (https://www.linkedin.com/in/jessica-weber-70ab9a83/ "LinkedIn")
+📫 How to reach me: [I'm an inline-style link] (https://www.linkedin.com/in/jessica-weber-70ab9a83/)
 
 
 
