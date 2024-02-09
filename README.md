@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-welcome to my profile
+welcome to my profile 😀
 
 🔭 I’m currently working on a data pipeline with Python, PySpark, psycopg2, Airflow, FastAPI, OAuth, Docker and Kubernetes
 
