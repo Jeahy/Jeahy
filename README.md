@@ -2,9 +2,9 @@
 
 welcome to my profile!
 
-🔭 I’m currently working on a [data pipeline project](https://github.com/Jeahy/project_spark.git) with Python, PySpark, psycopg2, Airflow, FastAPI, OAuth, Docker and Kubernetes
+🔭 I’m working on a [data pipeline project](https://github.com/Jeahy/project_spark.git) with Python, PySpark, psycopg2, Airflow, FastAPI, OAuth, Docker and Kubernetes
 
-🌱 I’m currently learning AWS for Data Engineers
+🌱 And I’m currently learning AWS for Data Engineers
 
 📫 You can reach me via [email](mailto:jeticodes@gmail.com)
 
